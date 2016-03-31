@@ -1,7 +1,5 @@
 # def hours_in_year
- 
-#  "#{24 * 365} hours or #{24 * 366} in a leap year"
-
+# "#{24 * 365} hours or #{24 * 366} in a leap year"
 # end
 
 # puts hours_in_year

@@ -7,4 +7,5 @@ def full_name
 	last_name = gets.chomp
 	full_name = first_name.length + middle_name.length + last_name.length
 end
-	puts "Did you know there are #{full_name.to_s} charaters in your full name?"
+
+puts "Did you know there are #{full_name.to_s} charaters in your full name?"
